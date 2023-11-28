@@ -10,6 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
+  
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
@@ -905,6 +906,15 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-info {
   opacity: 1;
 }
+
+.submission {
+    font-family: "Poppins", sans-serif;
+  
+}
+.submission ol li{
+  font-size: 20px;
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio Details
