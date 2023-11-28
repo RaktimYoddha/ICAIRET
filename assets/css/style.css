@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   
-  font-family: "Open Sans", sans-serif;
+   font-family: "Poppins", sans-serif;
   color: #444444;
 }
  .fontsmall{
@@ -141,7 +141,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 28px;
+  font-size: 24px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -217,6 +217,7 @@ h6 {
 * Desktop Navigation 
 */
 .navbar {
+  font-family: "Open Sans", sans-serif;
   padding: 0;
 }
 
