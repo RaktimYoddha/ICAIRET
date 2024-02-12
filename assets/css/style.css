@@ -1599,3 +1599,20 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+
+.important-dates {
+    border-collapse: collapse;
+    width: 100%;
+  }
+.important-dates td {
+    border: 0.5px solid rgb(195, 193, 205);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8px;
+    padding-left: 50px;
+    text-align: left;
+  }
+.important-dates .vertical-line {
+    border-right: 0.5px solid rgb(195, 193, 205);
+  }
