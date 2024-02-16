@@ -1751,3 +1751,13 @@ section {
 .single-timeline-area2 .single-timeline-content:focus .timeline-text h6 {
     color: #3f43fd;
 }
+
+.new_registration {
+  max-width: 800px; /* Adjust as needed */
+  margin: 0 auto; /* Center horizontally */
+  text-align: left; /* Align main steps to the left */
+  font-size: 28px;
+}
+.step {
+  text-align: center; /* Center the subtopics within each step */
+}
