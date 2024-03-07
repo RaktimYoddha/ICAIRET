@@ -679,7 +679,7 @@ section {
 .features .icon-box p {
   font-size: 15px;
   color: #848484;
-  margin-left: 60px;
+  margin-left: 0px;
 }
 
 .features .image {
@@ -1753,11 +1753,9 @@ section {
 }
 
 .new_registration {
-  max-width: 800px; /* Adjust as needed */
-  margin: 0 auto; /* Center horizontally */
-  text-align: left; /* Align main steps to the left */
-  font-size: 28px;
+
+
 }
 .step {
-  text-align: center; /* Center the subtopics within each step */
+   /* Center the subtopics within each step */
 }
