@@ -139,3 +139,12 @@ button:focus, input:focus, textarea:focus {
 .slider_carousel .owl-prev {
     left: -50px;
 }
+
+
+.hover_paperschedule:hover{
+	color:#a52f24;
+}
+
+.hover_paperschedule:hover{
+	color: aqua;
+}
