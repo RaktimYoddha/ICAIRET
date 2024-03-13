@@ -148,3 +148,13 @@ button:focus, input:focus, textarea:focus {
 .hover_paperschedule:hover{
 	color: aqua;
 }
+
+
+
+.container22{ display: flex; align-items: center; margin-top: 40px; color: white;}
+.container22 a{
+	color: white;
+	font-size: 20px;
+}
+
+.scroll-left span{ clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);}
